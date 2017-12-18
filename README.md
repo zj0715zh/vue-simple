@@ -14,5 +14,6 @@ npm run dev
 
 # 第三步本地构建
 npm run build
+```
 
-##其实单页跟多页最明显的区别就是一个是生成单个模板实例，路由靠vue-router,一个是生成多个模板实例，路由可以由后端控制，具体可以看build目录下的webpack.prod.conf.js文件
+###其实单页跟多页最明显的区别就是一个是生成单个模板实例，路由靠vue-router,一个是生成多个模板实例，路由可以由后端控制，具体可以看build目录下的webpack.prod.conf.js文件
