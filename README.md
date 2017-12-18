@@ -1,9 +1,9 @@
-# vue单页架构,这个是网上的下载的，再加上自己稍作更改，主要还是自己有点懒，请原谅我的抄袭。。
+### vue单页架构,这个是网上的下载的，再加上自己稍作更改，主要还是自己有点懒，请原谅我的抄袭。。
 > vue-simple
 
 ### git仓库地址：git@github.com:zj0715zh/vue-simple.git
 
-## Build Setup
+### Build Setup
 
 ``` bash
 # 第一步安装依赖
